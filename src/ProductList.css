@@ -74,6 +74,12 @@ body {
     gap: 20px;
 }
 
+.count {
+    margin-top: 16px;
+    margin-left: 27px;
+    position: absolute;
+}
+
 /* Pseudo-classes - Hover effect on product button */
 .product-card:hover {
     transform: scale(1.05);
